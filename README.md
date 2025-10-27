@@ -1,0 +1,3 @@
+Pi-ADC: codes for analog signals collected from the ADC of PI
+TiHub: codes for essential collections of vibration signals from TiHub
+TiHub-Web: advanced codes with web services for vibration signals from TiHub.
